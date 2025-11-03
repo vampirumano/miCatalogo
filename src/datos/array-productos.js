@@ -6,7 +6,7 @@ const productos = [
     precio: 199.99,
     "descripción": "Gafas polarizadas con lente polar UV400, montura ligera de metal y diseño moderno unisex.",
     imagen: [
-      "https://tapiastoreec.mitiendanube.com/productos/gafas-de-sol-polarizadas-p302/",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/Lacoste_L1003P_blanca_b1dmnx.jpg",
       "https://tapiastoreec.mitiendanube.com/productos/gafas-de-sol-polarizadas-p302/2",
       "https://tapiastoreec.mitiendanube.com/productos/gafas-de-sol-polarizadas-p302/3",
       "https://tapiastoreec.mitiendanube.com/productos/gafas-de-sol-polarizadas-p302/4",
@@ -21,7 +21,7 @@ const productos = [
     precio: 229.00,
     "descripción": "Lentes polarizadas con recubrimiento anti-reflejo, patillas con goma antideslizante.",
     imagen: [
-      "/assets/img/navigator-polar/1.jpg",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/Gafas_de_sol_polarizadas_Lacoste_L1003P_10_pc9ovz.jpg",
       "/assets/img/navigator-polar/2.jpg",
       "/assets/img/navigator-polar/3.jpg",
       "/assets/img/navigator-polar/4.jpg",

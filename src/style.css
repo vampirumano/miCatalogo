@@ -37,3 +37,8 @@ img{
 .slogan{
     font-size:larger;
 }
+
+.catalogo {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
