@@ -4,7 +4,7 @@ import logots from './logots.svg'
 import crearEnlaceCategoria from './modulos/crearEnlaceCategorias.js'
 import logo from './modulos/logo.js'
 import './modulos/renderizarCategorias.js'
-//import './modulos/catalogo.js';
+import './modulos/eventos.js'
 
 
 

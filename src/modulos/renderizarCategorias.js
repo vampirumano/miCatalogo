@@ -14,9 +14,9 @@ const renderizarCategorias = () =>{
         enlaceProducto.classList.add('producto');
         enlaceProducto.innerHTML = `
             <img src= ${p.imagen[0]} alt=
-            ${p.nombre}>
+            '${p.nombre}' class = 'imagen-producto'>
             <p>${p.nombre}</p>
-            <p><span>${p.precio}</span></p>
+            <p><span>$ ${p.precio}</span></p>
         `
         contenedor.append(enlaceProducto)
     })

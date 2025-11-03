@@ -22,7 +22,6 @@ a{
 img{
     max-width: 100%;
     width: 100%;
-    
 }
 
 .header{
@@ -41,4 +40,11 @@ img{
 .catalogo {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    gap: 2em;
+}
+
+.producto{
+    border-radius: 0.5em;
+    overflow: hidden;
 }
