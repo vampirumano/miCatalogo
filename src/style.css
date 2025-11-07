@@ -48,3 +48,13 @@ img{
     border-radius: 0.5em;
     overflow: hidden;
 }
+
+.imagen-producto{
+    transition: opacity 0.1s ease;
+    opacity: 1;
+}
+
+.imagen-producto.oculto{
+    transition: opacity 0.15s ease;
+    opacity: 0.5;
+}

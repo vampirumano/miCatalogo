@@ -1,7 +1,7 @@
-import datos from '../datos/array-productos'
 
 
-const crearEnlaceCategoria = ()=>{
+
+const crearEnlaceCategoria = (datos)=>{
     const menu = document.querySelector('.menu');
     const todo = document.createElement('a');
     todo.href = 'index.html';

@@ -1,8 +1,7 @@
-import data from '../datos/array-productos'
-
-const renderizarCategorias = () =>{
+const renderizarCategorias = (data) =>{
     const contenedor = document.querySelector('.catalogo');
     const params = new URLSearchParams (window.location.search);
+    console.log(window.location.search)
     const categoriaSelecionada =params.get('categoria');
 
     const productosFiltrados = categoriaSelecionada
@@ -14,14 +13,14 @@ const renderizarCategorias = () =>{
         enlaceProducto.classList.add('producto');
         enlaceProducto.innerHTML = `
             <img src= ${p.imagen[0]} alt=
-            '${p.nombre}' class = 'imagen-producto'>
+            '${p.nombre}' class = 'imagen-producto' data-id =  ${p.id}>
             <p>${p.nombre}</p>
             <p><span>$ ${p.precio}</span></p>
         `
         contenedor.append(enlaceProducto)
     })
-    console.log(productosFiltrados)
+    
     
 }
 
-renderizarCategorias()
+export default renderizarCategorias;

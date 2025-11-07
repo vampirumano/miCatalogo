@@ -7,7 +7,7 @@ const productos = [
     "descripción": "Gafas polarizadas con lente polar UV400, montura ligera de metal y diseño moderno unisex.",
     imagen: [
       "https://res.cloudinary.com/dvdz1osso/image/upload/f_auto,q_auto,w_auto,c_fill,g_auto,dpr_auto/Lacoste_L1003P_blanca_b1dmnx",
-      "https://tapiastoreec.mitiendanube.com/productos/gafas-de-sol-polarizadas-p302/2",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/L1003P_06_g70oyd",
       "https://tapiastoreec.mitiendanube.com/productos/gafas-de-sol-polarizadas-p302/3",
       "https://tapiastoreec.mitiendanube.com/productos/gafas-de-sol-polarizadas-p302/4",
       "https://tapiastoreec.mitiendanube.com/productos/gafas-de-sol-polarizadas-p302/5",
@@ -22,7 +22,7 @@ const productos = [
     "descripción": "Lentes polarizadas con recubrimiento anti-reflejo, patillas con goma antideslizante.",
     imagen: [
       "https://res.cloudinary.com/dvdz1osso/image/upload/f_auto,q_auto,w_auto,c_fill,g_auto,dpr_auto/P302_6_b2xqjs",
-      "/assets/img/navigator-polar/2.jpg",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/P302_2_b4woit",
       "/assets/img/navigator-polar/3.jpg",
       "/assets/img/navigator-polar/4.jpg",
       "/assets/img/navigator-polar/5.jpg",
@@ -37,7 +37,7 @@ const productos = [
     "descripción": "Estilo deportivo, ideal para actividades al aire libre. Lentes polarizadas y resistentes a golpes.",
     imagen: [
       "https://res.cloudinary.com/dvdz1osso/image/upload/f_auto,q_auto,w_auto,c_fill,g_auto,dpr_auto/P489_10_nys997",
-      "/assets/img/ocean-shield/2.jpg",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/P489_3_xuvwb4",
       "/assets/img/ocean-shield/3.jpg",
       "/assets/img/ocean-shield/4.jpg",
       "/assets/img/ocean-shield/5.jpg",
@@ -52,7 +52,7 @@ const productos = [
     "descripción": "Gafas infantiles con marco flexible y protección UV, diseño colorido y seguro para niños.",
     imagen: [
       "https://res.cloudinary.com/dvdz1osso/image/upload/f_auto,q_auto,w_auto,c_fill,g_auto,dpr_auto/ZKY_ZKNIB8703_05_doxi0k",
-      "/assets/img/kids-fun-blue/2.jpg",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/ZKY_ZKNIB8703_09_wvqfci",
       "/assets/img/kids-fun-blue/3.jpg",
       "/assets/img/kids-fun-blue/4.jpg",
       "/assets/img/kids-fun-blue/5.jpg",
@@ -67,7 +67,7 @@ const productos = [
     "descripción": "Gafas para niños con correas ajustables, lentes resistentes a impactos y acabado antirayado.",
     imagen: [
       "https://res.cloudinary.com/dvdz1osso/image/upload/f_auto,q_auto,w_auto,c_fill,g_auto,dpr_auto/ZKY_ZKNICV-10429_2_wt3aw9",
-      "/assets/img/tiny-explorer/2.jpg",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/ZKY_ZKNICV-10429_7_qnk1gq",
       "/assets/img/tiny-explorer/3.jpg",
       "/assets/img/tiny-explorer/4.jpg",
       "/assets/img/tiny-explorer/5.jpg",
@@ -82,7 +82,7 @@ const productos = [
     "descripción": "Modelo deportivo infantil con patillas suaves y puente nasal acolchado para mayor comodidad.",
     imagen: [
       "https://res.cloudinary.com/dvdz1osso/image/upload/f_auto,q_auto,w_auto,c_fill,g_auto,dpr_auto/ZKY_ZKNID8806_9_lm6fkz",
-      "/assets/img/mini-racer/2.jpg",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/ZKY_ZKNID8806_3_ccqnit",
       "/assets/img/mini-racer/3.jpg",
       "/assets/img/mini-racer/4.jpg",
       "/assets/img/mini-racer/5.jpg",
@@ -97,7 +97,7 @@ const productos = [
     "descripción": "Gafas para dama con montura elegante, lentes con protección UV y acabado brillante.",
     imagen: [
       "https://res.cloudinary.com/dvdz1osso/image/upload/f_auto,q_auto,w_auto,c_fill,g_auto,dpr_auto/PPT3002_2_lohnpp",
-      "/assets/img/elegance-rosa/2.jpg",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/PPT3002_5_sjkjzz",
       "/assets/img/elegance-rosa/3.jpg",
       "/assets/img/elegance-rosa/4.jpg",
       "/assets/img/elegance-rosa/5.jpg",
@@ -112,7 +112,7 @@ const productos = [
     "descripción": "Diseño clásico femenino con detalles en plaqué y lentes con filtros de alto contraste.",
     imagen: [
       "https://res.cloudinary.com/dvdz1osso/image/upload/f_auto,q_auto,w_auto,c_fill,g_auto,dpr_auto/Cartier_12_5_mkjdhn",
-      "/assets/img/luna-classic/2.jpg",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/Cartier_12_4_nawy4j",
       "/assets/img/luna-classic/3.jpg",
       "/assets/img/luna-classic/4.jpg",
       "/assets/img/luna-classic/5.jpg",
@@ -127,7 +127,7 @@ const productos = [
     "descripción": "Marco ultraligero para uso diario, lentes con protección UV y diseño sofisticado femenino.",
     imagen: [
       "https://res.cloudinary.com/dvdz1osso/image/upload/f_auto,q_auto,w_auto,c_fill,g_auto,dpr_auto/PPT3001_1_ixflz6",
-      "/assets/img/silk-vision/2.jpg",
+      "https://res.cloudinary.com/dvdz1osso/image/upload/w_1024,q_auto,f_auto/PPT3001_8_zkhsoc",
       "/assets/img/silk-vision/3.jpg",
       "/assets/img/silk-vision/4.jpg",
       "/assets/img/silk-vision/5.jpg",
